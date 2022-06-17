@@ -1,14 +1,12 @@
 {
-	"short_name": "todolistku",
-	"description": "Sebuah todolist untuk membantu pekerjaanmu.",
-	"name": "Todolistku",
+	"name": "Todolist ku",
 	"version": "1.0.0",
 	"manifest_version": 3,
-	"permissions": ["activeTab"],
+
+	"description": "Sebuah todolist untuk membantu pekerjaanmu.",
 	"action": {
 		"default_popup": "index.html"
 	},
-	"host_permissions": ["<all_urls>"],
 	"icons": {
 		"16": "/images/get_started16.png",
 		"32": "/images/get_started32.png",
